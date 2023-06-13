@@ -1,0 +1,10 @@
+version: '2'
+services:
+   mycontainer4:
+    image: ngnix_image:latest
+    ports:
+     - "1000:80"
+    volumes:
+     - ./src:/usr/share/ngnix/index.html
+
+~                                   
