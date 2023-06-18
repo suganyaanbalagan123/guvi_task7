@@ -13,3 +13,12 @@
 **The container is running in the port 1000**
 
 ![7 4](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/0aeeba18-65ce-4e1e-a0af-910613d6f111)
+
+**2.pushing the created docker ngnix image to docker hub
+**
+
+![task77](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/aa05ac4d-a509-415f-8d1b-fb1ed5f8178d)
+
+**3.pushed image in my dockerhub repo**
+
+![task7 4](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/6745b1a2-617b-4ebc-8ac6-3d70728e8031)
