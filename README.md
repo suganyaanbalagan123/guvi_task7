@@ -1,5 +1,15 @@
 # guvi_task7!
-![task7 1](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/c9648d6b-fb89-4237-b482-ab09969ac8f9)
-![Task 7 2](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/cd960ef9-e16e-470d-9139-9ddeee57995f)
+
+**Create a custom docker image for nginx and deploy it using docker-compose, where the volume mount should be at /var/opt/nginx location. Push the created custom docker image to your docker hub.**
+
+![task7 1](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/bd23d704-5a58-4fcf-b382-a65633b29490)
+
+![Task 7 2](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/2d1092ae-7655-4023-b78d-9e1a829c9613)
+
+**The image is running in the prot 2000**
+
 ![7 3](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/311857f0-a844-4569-baf1-af4d79a73814)
+
+**The container is running in the port 1000**
+
 ![7 4](https://github.com/suganyaanbalagan123/guvi_task7/assets/133192593/0aeeba18-65ce-4e1e-a0af-910613d6f111)
